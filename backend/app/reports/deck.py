@@ -245,4 +245,3 @@ def add_data_gaps_slide(slide, data_completeness: Dict[str, Any]):
     
     for paragraph in text_frame.paragraphs:
         paragraph.font.size = Pt(12)
-
